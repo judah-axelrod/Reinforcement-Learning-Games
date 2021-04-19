@@ -3,7 +3,7 @@ Implementation of various policy evaluation and learning methods to teach an age
 
 Here is a quick overview of the files in this repository:  
 
-- **RL_games.ipynb** and **RL_games.html** provide answers to all of the questions listed below, with full explanation and accompanying code. The .ipynb file is provided for replication purposes, but the .html file is better for viewing
+- **RL_games.ipynb** and **RL_games.html** provide answers to all of the questions listed below, with full explanation and accompanying code.
 - **two_player_game1.py** is the implementation of the environment used for **P1** and **P2** below.
 - **two_player_game2.py** is the implementation of the environment used for **P3** below.
 
